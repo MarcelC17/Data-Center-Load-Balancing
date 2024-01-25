@@ -1,1 +1,1 @@
-# laod balancer
+# load balancer
